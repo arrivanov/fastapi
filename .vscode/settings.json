@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "autoflush",
+        "fastapi",
+        "fastpi",
+        "mysqlconnector",
+        "ondelete",
+        "pydantic",
+        "sessionmaker",
+        "sqlalchemy"
+    ]
+}
